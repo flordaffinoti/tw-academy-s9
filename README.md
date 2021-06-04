@@ -51,7 +51,7 @@ Read the `README.md` file before you proceed.
 
 Never use the following abbreviations in a formal document:
 
-| | | 
+| Don'ts | Do's | 
 | ----- | ---- |
 | e.g. |Instead use “for example”.| 
 | i.e | Instead use “in other words”. |
@@ -98,7 +98,7 @@ Contractions are considered informal writing. To prevent “stuffiness” use th
 ## Apostrophes
 
 Do not use an apostrophe for the plural of acronyms. For example:
-| | | 
+| Don'ts | Do's | 
 | ----- | ---- |
 | API’ | Instead use APIs |
 | LAN’s | Instead use LANs |
